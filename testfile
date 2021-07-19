@@ -1,1 +1,31 @@
 Empty
+sudo apt-get install python3-pip
+
+sudo pip3 install virtualenv 
+virtualenv venv 
+
+
+source venv/bin/activate
+
+
+
+
+pip3 install pyvirtualdisplay
+
+for giving permision in ubuntu
+ sudo chmod -R 755 ~/env3*
+
+zip -re startp.py.zip start start
+
+Take Backup of Firefox Mozila
+
+
+tar -jcvf firefox-browser-profile.tar.bz2 .mozilla
+
+then remove old one
+rm -rf ~/.mozilla
+
+Extrack them
+tar -xvf firefox-browser-profile.tar.bz2
+
+https://www.addictivetips.com/ubuntu-linux-tips/backup-and-restore-a-firefox-profile-on-linux/
