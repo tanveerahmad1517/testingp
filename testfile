@@ -22,6 +22,8 @@ Take Backup of Firefox Mozila
 
 tar -jcvf firefox-browser-profile.tar.bz2 .mozilla
 
+https://drive.google.com/file/d/1JZfhQ5rTdvvR3c-pcuDjz510G_4HExCZ/view?usp=sharing
+
 then remove old one
 rm -rf ~/.mozilla
 
