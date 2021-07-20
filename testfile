@@ -29,3 +29,8 @@ Extrack them
 tar -xvf firefox-browser-profile.tar.bz2
 
 https://www.addictivetips.com/ubuntu-linux-tips/backup-and-restore-a-firefox-profile-on-linux/
+
+gpg -c firefox-browser-profile.tar.bz2
+
+extract
+gpg firefox-browser-profile.tar.bz2.gpg
