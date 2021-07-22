@@ -1,4 +1,13 @@
 Empty
+
+
+
+https://www.dropbox.com/s/buvcdoyha5bb935/firefox-browser-profile.tar.bz2
+rm -rf ~/.mozilla
+
+gpg firefox-browser-profile.tar.bz2.gpg
+
+tar -xvf firefox-browser-profile.tar.bz2
 https://drive.google.com/file/d/1e95dltT_46pMKhlaV8CeR6sw6iXIeJt0/view?usp=sharing
 
 
