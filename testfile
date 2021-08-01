@@ -7,7 +7,7 @@ tar -jcvf firefox-browser-profile.tar.bz2 .mozilla
 
 gpg -c firefox-browser-profile.tar.bz2
 
-
+rm -rf ~/.mozilla
 
 bomih47526
 rocewi8922
