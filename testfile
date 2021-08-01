@@ -1,5 +1,10 @@
 https://www.dropbox.com/s/u30xsyma4fq6mby/centbrowser_4.3.9.248_portable.zip?dl=0
 
+
+
+bak
+tar -jcvf firefox-browser-profile.tar.bz2 .mozilla
+
 bomih47526
 rocewi8922
 
